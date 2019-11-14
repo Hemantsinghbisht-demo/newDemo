@@ -12,10 +12,10 @@ variables:
   azureSubscription: '9591a29d-1692-4563-9d26-02517a2e6b7d'
   
   # Web app name
-  webAppName: 'demociandcd'
+  webAppName: 'WEC-CI-CD'
 
   # Environment name
-  environmentName: 'demociandcd'
+  environmentName: 'WEC-CI-CD'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
